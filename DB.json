@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "first_name": "Aarav",
+    "last_name": "Sharma",
+    "email": "aarav.sharma@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": 2,
+    "first_name": "Priya",
+    "last_name": "Patel",
+    "email": "priya.patel@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "first_name": "Rohan",
+    "last_name": "Verma",
+    "email": "rohan.verma@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": 4,
+    "first_name": "Ananya",
+    "last_name": "Gupta",
+    "email": "ananya.gupta@example.com",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 5,
+    "first_name": "Arjun",
+    "last_name": "Mehta",
+    "email": "arjun.mehta@example.com",
+    "city": "Pune"
+  },
+  {
+    "id": 6,
+    "first_name": "Sneha",
+    "last_name": "Reddy",
+    "email": "sneha.reddy@example.com",
+    "city": "Chennai"
+  },
+  {
+    "id": 7,
+    "first_name": "Kabir",
+    "last_name": "Singh",
+    "email": "kabir.singh@example.com",
+    "city": "Kolkata"
+  },
+  {
+    "id": 8,
+    "first_name": "Ishita",
+    "last_name": "Nair",
+    "email": "ishita.nair@example.com",
+    "city": "Kochi"
+  },
+  {
+    "id": 9,
+    "first_name": "Vikram",
+    "last_name": "Joshi",
+    "email": "vikram.joshi@example.com",
+    "city": "Jaipur"
+  },
+  {
+    "id": 10,
+    "first_name": "Meera",
+    "last_name": "Iyer",
+    "email": "meera.iyer@example.com",
+    "city": "Ahmedabad"
+  },
+  {
+    "first_name": "Sid",
+    "last_name": "Jain",
+    "email": "sid@example.com",
+    "City": "Delhi",
+    "id": 11
+  },
+  { "id": 12 },
+  {
+    "first_name": "Himanshu",
+    "last_name": "Rawat",
+    "email": "example@himanshu.com",
+    "id": 13
+  },
+  {}
+]

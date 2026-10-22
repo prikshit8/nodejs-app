@@ -1,0 +1,34 @@
+my DB is made up of collections (Users,Products,Orders)
+
+/// 1 of the org for which i am working
+/// 2 of personal project
+/// 3 teaching here
+
+your mongo DB instance can have multiple DBs (nodejsClass)
+your db can have collections
+collections will have documents
+
+/// "use DB"
+
+schema -> define the structure
+    schema -> model (comes from mongoose)
+    using the model we get we can do CRUD operation
+
+
+
+/// mongo setup in whatever os
+/// patch and delete in mongo 
+
+
+/// versioning of packages
+/// status codes
+/// how can we clean / moduler our codebase
+
+
+// authentication
+// authorization
+// file upload
+
+
+
+

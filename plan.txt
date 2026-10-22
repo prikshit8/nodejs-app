@@ -1,0 +1,23 @@
+APIs
+
+GET /users - list all users -> completed
+
+GET /users/1 - get the user with id 1
+GET /users/2 - get the user with id 2
+GET /users/3 - get the user with id 3
+GET /users/100 - get the user with id 100
+
+
+DYNAMIC PATH PARAMETERS
+GET /users/:id -> correct
+GET /users/id -> wrong
+
+
+
+POST /users - create a new user
+PATCH /users/1 - edit the user with id 1
+DELETE /users/1 - delete the user with id 1
+
+
+
+versioning of packages
