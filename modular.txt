@@ -1,0 +1,7 @@
+/// models
+
+/// routes - don't forget to import models here
+
+/// use middleware with route to connect routes
+
+/// write middlewares in a separate file using curry
